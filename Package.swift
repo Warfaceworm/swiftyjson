@@ -17,3 +17,12 @@ let package = Package(
     ],
     swiftLanguageVersions: [.v5]
 )
+📂 iOSSecurityApp/
+│── 📂 SecurityCore/           # Core security functions
+│── 📂 UI/                     # SwiftUI Views
+│── 📂 Services/               # System monitoring services
+│── 📂 Utils/                  # Utility functions
+│── 📂 Models/                 # Data models
+│── 📜 iOSSecurityApp.swift    # Main entry point
+│── 📜 Info.plist              # Permissions
+
